@@ -1,6 +1,7 @@
 {
   "name": "not-too-dark-theme",
-  "displayName": "not-too-dark-theme",
+  "displayName": "Not Too Dark Theme",
+  "publisher": "emanueleclick",
   "description": "A dark theme. But not too dark.",
   "version": "0.0.1",
   "engines": {
