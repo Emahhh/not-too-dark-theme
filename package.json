@@ -3,9 +3,10 @@
   "displayName": "Not Too Dark Theme",
   "publisher": "emanueleclick",
   "description": "A dark theme. But not too dark.",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "repository": "https://github.com/Emahhh/not-too-dark-theme",
   "engines": {
-    "vscode": "^1.93.0"
+    "vscode": "^1.50.0"
   },
   "categories": [
     "Themes"
